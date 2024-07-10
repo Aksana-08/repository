@@ -1,0 +1,52 @@
+.knp {
+  margin: 40px;
+  width: 400px;
+  border: none;
+}
+
+.ssylka {
+  width: 400px;
+  height: 20px;
+  font-size: 15px;
+  margin-left: 155px;
+}
+
+.btn {
+  width: 300px;
+  height: 40px;
+  font-size: 30px;
+  font-weight: 100px;
+  margin-left: 100px;
+  background: white;
+  color: black;
+  border-radius: 40px;
+}
+.horizontalRule {
+  margin: 50px;
+  width: 400px;
+  border: none;
+}
+
+.body {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+.wrap {
+  background: gray;
+  width: 100%;
+  height: 100vh;
+}
+.form {
+  width: 500px;
+  margin: 0 auto;
+  height: 900px;
+  background: white;
+}
+.myClass {
+  width: 400px;
+  height: 30px;
+  font-size: 50px;
+  margin-left: 155px;
+}
